@@ -1,9 +1,16 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+Hi, I’m **Kaashinath** aka **B34RN00B** 👋  
+I’m a **CTF player**,  and **developer** passionate about **OSINT**, **Reverse Engineering**, and **Forensics**.    I love to make Robots and cool stuffs on internet :)
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+I'm a CTF player on **BlitzHack** and **Sanrioholic** 🏴‍☠️  
+I'm also the **Founder of BharlesCabbage** 🚀
+
+# 🧠 I enjoy solving challenges in:
+
+- 🧠 Reverse Engineering  
+- 🔎 Forensics  
+- 🌐 Web Security  
+- 🕵️ OSINT  
+
+This site is my **digital playground** — where I share **projects**, **writeups**, and **coolstuff**.

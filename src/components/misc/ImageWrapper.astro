@@ -41,7 +41,9 @@ if (isLocal) {
 			`\n[ERROR] Image file not found: ${normalizedPath.replace("../../", "src/")}`,
 		);
 	}
+	if (file) {
 	img = await file();
+}
 }
 
 const imageClass = "w-full h-full object-cover";
